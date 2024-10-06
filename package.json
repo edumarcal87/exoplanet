@@ -1,0 +1,23 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edumarcal87/exoplanet.git"
+  },
+  "author": "Eduardo Marçal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edumarcal87/exoplanet/issues"
+  },
+  "homepage": "https://github.com/edumarcal87/exoplanet#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "three": "^0.169.0"
+  }
+}
